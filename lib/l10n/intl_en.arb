@@ -1,0 +1,202 @@
+{
+  "appTitle": "Dalilak",
+  "@appTitle": {
+    "description": "The name of the application"
+  },
+  "findItAll": "Find It All in One... Your Ultimate Services Solution!",
+  "@findItAll": {
+    "description": "App tagline"
+  },
+  "categories": "Categories",
+  "@categories": {
+    "description": "Title for the categories section"
+  },
+  "featured": "Featured",
+  "@featured": {
+    "description": "Featured section title"
+  },
+  "offers": "Offers",
+  "@offers": {
+    "description": "Offers section title"
+  },
+  "topOffers": "Top Offers",
+  "@topOffers": {
+    "description": "Title for the top offers section"
+  },
+  "viewAll": "View All",
+  "@viewAll": {
+    "description": "Button text to view all categories"
+  },
+  "nearYou": "Near You",
+  "@nearYou": {
+    "description": "Title for the near you section"
+  },
+  "profile": "Profile",
+  "@profile": {
+    "description": "Profile section title"
+  },
+  "login": "Login",
+  "@login": {
+    "description": "Login button text"
+  },
+  "settings": "Settings",
+  "@settings": {
+    "description": "Settings menu item"
+  },
+  "language": "Language",
+  "@language": {
+    "description": "Language selection option"
+  },
+  "english": "English",
+  "@english": {
+    "description": "Label for English language"
+  },
+  "arabic": "Arabic",
+  "@arabic": {
+    "description": "Label for Arabic language"
+  },
+  "languageSettings": "Language Settings",
+  "@languageSettings": {
+    "description": "Title for language settings screen"
+  },
+  "userInfo": "User Info",
+  "@userInfo": {
+    "description": "User information section title"
+  },
+  "userName": "User Name",
+  "@userName": {
+    "description": "Label for user name field"
+  },
+  "phoneNumber": "Phone Number",
+  "@phoneNumber": {
+    "description": "Label for phone number field"
+  },
+  "selectGender": "Select Gender",
+  "@selectGender": {
+    "description": "Label for gender selection"
+  },
+  "gender": "Gender",
+  "@gender": {
+    "description": "Gender field placeholder"
+  },
+  "cancel": "Cancel",
+  "@cancel": {
+    "description": "Text for cancel button"
+  },
+  "saveProfile": "Save Profile",
+  "@saveProfile": {
+    "description": "Text for save profile button"
+  },
+  "logout": "Logout",
+  "@logout": {
+    "description": "Text for logout button"
+  },
+  "notLoggedIn": "Not logged in",
+  "@notLoggedIn": {
+    "description": "Message shown when user is not logged in"
+  },
+  "dalilak": "Dalilak",
+  "@dalilak": {
+    "description": "App name"
+  },
+  "searchBoxTitle": "Find It All in One ... Your Ultimate Services Solution!",
+  "@searchBoxTitle": {
+    "description": "Title for the search box"
+  },
+  "name": "Name",
+  "email": "Email",
+  "message": "Message",
+  "send": "Send",
+  "codeExpiresIn": "Code expires in ",
+  "search": "Search",
+  "myList": "My List",
+  "reachOut": "Reach Out, We're Just a Tap Away!",
+  "dropLine": "Drop us a line",
+  "description": "Description",
+  "operatingHours": "Operating Hours",
+  "contactInfo": "Contact Info",
+  "portfolio": "Portfolio",
+  "ratingAndReviews": "Rating & Reviews",
+  "writeReview": "Write a Review",
+  "oops": "Oops! Nothing to show yet",
+  "findSavedStorefronts": "Find your saved storefronts here",
+  "clearAll": "Clear All",
+  "previousSearch": "Previous Search",
+  "sortBy": "Sort By",
+  "ascending": "Ascending",
+  "descending": "Descending",
+  "location": "Location",
+  "category": "Category",
+  "subCategory": "Sub-Category",
+  "searchForSubCategory": "Search For a Sub Catg.",
+  "applyFilters": "Apply Filters",
+  "clear": "Clear",
+  "distance": "{distance} Km",
+  "statusAway": "Away",
+  "welcome": "Welcome",
+  "verify": "Verify",
+  "sendAgain": "Send Again",
+  "getInTouch": "Get In Touch",
+  "generateOtp": "Generate OTP",
+  "postReview": "Post Review",
+  "deleteAdmin": "Delete Admin",
+  "areYouSureYouWantToDeleteThisAdmin": "Are you sure you want to delete this admin?",
+  "no": "No",
+  "yes": "Yes",
+  "adminName": "Admin Name",
+  "enterAdminName": "Enter Admin Name",
+  "createAdmin": "Create Admin",
+  "manageYour": "Manage Your",
+  "storeFronts": "Store Fronts",
+  "errorLoadingCategories": "Error loading categories",
+  "loginToYourFavoriteStoreFrontsHere": "Login to your favorite store fronts here",
+  "noResults": "No results found",
+  "selectACategoryFirst": "Select a category first",
+  "offerNameInEnglish": "Offer Name (English)",
+  "offerNameInArabic": "Offer Name (Arabic)",
+  "offerLink": "Offer Link",
+  "keywords": "Keywords",
+  "expiryDate": "Expiry Date",
+  "createYourFirstOffer": "Create Your First Offer",
+  "createOffer": "Create Offer",
+  "saveOffer": "Save Offer",
+  "delete": "Delete",
+  "areYouSureYouWantToDeleteThisOffer": "Are you sure you want to delete this offer?",
+  "emailAddress": "Email Address",
+  "address": "Address",
+  "googleMapLink": "Google Map Link",
+  "website": "Website",
+  "facebook": "Facebook",
+  "instagram": "Instagram",
+  "twitter": "Twitter (X)",
+  "linkedIn": "LinkedIn",
+  "storeFrontNameInEnglish": "Store Front Name (English)",
+  "storeFrontNameInArabic": "Store Front Name (Arabic)",
+  "selectField": "Select Field",
+  "storeFrontDescriptionInEnglish": "Store Front Description (English)",
+  "chooseYourFile": "Choose Your File(s)",
+  "jpg": "JPG, PNG or SVG",
+  "createYourFirstStoreFront": "Create Your First Store Front",
+  "saveStoreFront": "Save Store Front",
+  "pleaseCorrectInvalidFields": "Please correct invalid fields",
+  "deleteStoreFront": "Delete Store Front",
+  "areYouSureYouWantToDeleteThisStoreFront": "Are you sure you want to delete this store front?",
+  "nothingToShowYet": "Oops! Nothing to show yet",
+  "mb": "MB",
+    "aboutUs": "About Us",
+    "aboutUsText": "Dalilak is a trusted local connection platform that facilitates efficient interactions between consumers and nearby businesses. Offering accurate and verified business information, Dalilak stands out from traditional search engines by ensuring up-to-date details and a user-friendly experience.",
+    "mission": "Mission",
+    "missionText": "Connecting consumers with local businesses and services efficiently, by providing a user-friendly experience and empowering both consumers and businesses.",
+    "vision": "Vision",
+    "visionText": "We bridge the gap between consumers and local businesses by providing:",
+    "visionPoint1": "• Trusted and verified information: Dalilak ensures accurate and up-to-date business details, unlike user-generated content on search engines.",
+    "visionPoint2": "• Convenience and ease of use: Our categorized directory and user-friendly interface make finding what you need effortless.",
+    "visionPoint3": "• Increased visibility and credibility: A Dalilak listing positions your business as a trusted and established entity among local consumers.",
+    "value": "Value",
+    "valueText": "The Trusted Bridge in a Digital Age\nWhile online search engines offer a vast amount of information, Dalilak goes beyond just listings. We bridge the gap between consumers and local businesses. We envision a future where:",
+    "valuePoint1": "• Effortless Search: Our intuitive app empowers users to find exactly what they need with a clean interface, clear categories, and powerful search functions.",
+    "valuePoint2": "• Informed Decisions: User reviews, ratings, and photos will illuminate the best businesses, allowing users to choose with confidence.",
+    "valuePoint3": "• Hyper-local Focus: Location-based services and personalized recommendations ensure users discover relevant businesses nearby.",
+    "valuePoint4": "• Engaged Community: Push notifications keep users informed of deals, promotions, and new listings, fostering a vibrant user base."
+
+}

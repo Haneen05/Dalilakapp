@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "998489221180",
+    "project_id": "daleelak-lb",
+    "storage_bucket": "daleelak-lb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998489221180:android:8343e72f62553a92c57b39",
+        "android_client_info": {
+          "package_name": "com.daleelakappx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPHtngSt4GG49cAX7xGRC89I80f70zF8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998489221180:android:626f63e7549f5cd4c57b39",
+        "android_client_info": {
+          "package_name": "com.dalilakapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPHtngSt4GG49cAX7xGRC89I80f70zF8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998489221180:android:b3fcceac8a867c9fc57b39",
+        "android_client_info": {
+          "package_name": "com.example.dalilakapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPHtngSt4GG49cAX7xGRC89I80f70zF8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

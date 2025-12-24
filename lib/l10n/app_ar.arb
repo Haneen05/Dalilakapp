@@ -1,0 +1,216 @@
+{
+  "apptitle": "دليلك",
+  "@apptitle": {
+    "description": "The name of the application"
+  },
+  "finditall": "ابحث، اكتشف، امتلك …كل ماتحتاجه بين يديك!",
+  "@finditall": {
+    "description": "App tagline"
+  },
+  "categories": "الفئات",
+  "@categories": {
+    "description": "Title for the categories section"
+  },
+  "featured": "خصائص مميزة",
+  "@featured": {
+    "description": "Featured section title"
+  },
+  "offers": "العروض",
+  "@offers": {
+    "description": "Offers section title"
+  },
+  "topoffers": "أفضل العروض",
+  "@topoffers": {
+    "description": "Title for the top offers section"
+  },
+  "viewall": "عرض الكل",
+  "@viewall": {
+    "description": "Button text to view all categories"
+  },
+  "nearyou": "قريب منك",
+  "@nearyou": {
+    "description": "Title for the near you section"
+  },
+  "profile": "الملف الشخصي",
+  "@profile": {
+    "description": "Profile section title"
+  },
+  "login": "تسجيل الدخول",
+  "@login": {
+    "description": "Login button text"
+  },
+  "settings": "الإعدادات",
+  "@settings": {
+    "description": "Settings menu item"
+  },
+  "language": "اللغة",
+  "@language": {
+    "description": "Language selection option"
+  },
+  "english": "English",
+  "@english": {
+    "description": "Label for English language"
+  },
+  "arabic": "العربية",
+  "@arabic": {
+    "description": "Label for Arabic language"
+  },
+  "languagesettings": "إعدادات اللغة",
+  "@languagesettings": {
+    "description": "Title for language settings screen"
+  },
+  "userinfo": "معلومات المستخدم",
+  "@userinfo": {
+    "description": "User information section title"
+  },
+  "username": "اسم المستخدم",
+  "@username": {
+    "description": "Label for user name field"
+  },
+  "phonenumber": "رقم الهاتف",
+  "@phonenumber": {
+    "description": "Label for phone number field"
+  },
+  "selectgender": "اختر الجنس",
+  "@selectgender": {
+    "description": "Label for gender selection"
+  },
+  "gender": "الجنس",
+  "@gender": {
+    "description": "Gender field placeholder"
+  },
+  "cancel": "إلغاء",
+  "@cancel": {
+    "description": "Text for cancel button"
+  },
+  "saveprofile": "حفظ الملف الشخصي",
+  "@saveprofile": {
+    "description": "Text for save profile button"
+  },
+  "logout": "تسجيل الخروج",
+  "@logout": {
+    "description": "Text for logout button"
+  },
+  "notloggedin": "لم يتم تسجيل الدخول",
+  "@notloggedin": {
+    "description": "Message shown when user is not logged in"
+  },
+  "dalilak": "دليلك",
+  "@dalilak": {
+    "description": "App name"
+  },
+  "searchboxtitle": "كل ما تحتاجه…في تطبيق واحد",
+  "@searchboxtitle": {
+    "description": "Title for the search box"
+  },
+  "name": "الاسم",
+  "@name": {
+    "description": "Label for name field"
+  },
+  "email": "البريد الإلكتروني",
+  "@email": {
+    "description": "Label for email field"
+  },
+  "message": "رسالة",
+  "@message": {
+    "description": "Label for message field"
+  },
+  "send": "إرسال",
+  "@send": {
+    "description": "Text for send button"
+  },
+  "codeexpiresin": "الكود ينتهي في ",
+  "@codeexpiresin": {
+    "description": "Message indicating the time remaining for the OTP code"
+  },
+  "search": "بحث",
+  "mylist": "قائمتي",
+  "reachout": "اتصل بنا",
+  "dropline": "أرسل لنا رسالة",
+  "description": "الوصف",
+  "operatinghours": "ساعات العمل",
+  "contactinfo": "معلومات الاتصال",
+  "portfolio": "الملف الشخصي",
+  "ratingandreviews": "تقييم ومراجعات",
+  "writereview": "اكتب تقييمك",
+  "oops": "أُووبس! لا شيء لإظهاره حتى الآن",
+  "findsavedstorefronts": "ابحث عن الخدمات المحفوظة الخاصة بك",
+  "clearall": "مسح الكل",
+  "previoussearch": "البحث السابق",
+  "sortby": "ترتيب حسب",
+  "ascending": "تصاعدي",
+  "descending": "تنازلي",
+  "location": "الموقع",
+  "category": "الفئة",
+  "subcategory": "الفئة الفرعية",
+  "searchforsubcategory": "ابحث عن فئة فرعية",
+  "applyfilters": "تطبيق الفلاتر",
+  "clear": "مسح",
+  "distance": "{distance} كم",
+  "statusaway": "بعيد",
+  "welcome": "مرحبا",
+  "verify": "تحقق",
+  "sendagain": "أرسل مرة أخرى",
+  "getintouch": "تواصل معنا",
+  "generateotp": "إنشاء رمز التحقق",
+  "postreview": "نشر مراجعة",
+  "deleteadmin": "حذف المسؤول",
+  "areyousureyouwanttodeletethisadmin": "هل أنت متأكد أنك تريد حذف هذا المسؤول؟",
+  "no": "لا",
+  "yes": "نعم",
+  "adminname": "اسم المسؤول",
+  "enteradminname": "أدخل اسم المسؤول",
+  "creatadmin": "إنشاء مسؤول",
+  "manageyour": "إدارة",
+  "storefronts": "واجهات المتجر",
+  "errorloadingcategories": "حدث خطأ أثناء تحميل الفئات",
+  "logintoyourfavoritestorefrontshere": "قم بتسجيل الدخول إلى واجهات متاجرك المفضلة هنا",
+  "noresults": "لا توجد نتائج",
+  "selectacategoryfirst": "يرجى اختيار فئة أولاً",
+  "offernameinenglish": "اسم العرض باللغة الإنجليزية",
+  "offernameinarabic": "اسم العرض باللغة العربية",
+  "offerlink": "رابط العرض",
+  "keywords": "الكلمات المفتاحية",
+  "expirydate": "تاريخ الانتهاء",
+  "createyourfirstoffer": "أنشئ عرضك الأول",
+  "createoffer": "إنشاء عرض",
+  "saveoffer": "حفظ العرض",
+  "delete": "حذف",
+  "areyousureyouwanttodeletethisoffer?": "هل أنت متأكد أنك تريد حذف هذا العرض؟",
+  "emailaddress": "البريد الإلكتروني",
+  "address": "العنوان",
+  "googlemaplink": "رابط خرائط جوجل",
+  "website": "الموقع الإلكتروني",
+  "facebook": "فيسبوك",
+  "instagram": "انستغرام",
+  "twitter(x)": "تويتر (X)",
+  "linkedin": "لينكدإن",
+  "storefrontnameinenglish": "اسم الواجهة باللغة الإنجليزية",
+  "storefrontnameinarabic": "اسم الواجهة باللغة العربية",
+  "selectfield": "اختر المجال",
+  "storefrontdescriptioninenglish": "وصف الواجهة باللغة الإنجليزية",
+  "chooseyourfile(s)": "اختر ملف/ملفاتك",
+  "jpg,png,orsvg": "JPG أو PNG أو SVG",
+  "createyourfirststorefront": "أنشئ أول واجهة متجر لك",
+  "savestorefront": "حفظ واجهة المتجر",
+  "pleasecorrectinvalidfields": "يرجى تصحيح الحقول غير الصالحة",
+  "deletestorefront": "حذف واجهة المتجر",
+  "areyousureyouwanttodeletethisstorefront?": "هل أنت متأكد أنك تريد حذف هذه الواجهة؟",
+  "oops!nothingtoshowyet": "عذراً! لا يوجد شيء لعرضه بعد",
+  "mb": "ميغابايت",
+   "aboutUs": "من نحن",
+    "aboutUsText": "دليلك هو منصة موثوقة تربط المستهلكين بالأعمال المحلية، وتسهّل التفاعل الفعّال بين الطرفين من خلال توفير معلومات دقيقة وموثوقة عن الأعمال، مما يجعلها تتفوق على محركات البحث التقليدية.",
+    "mission": "مهمتنا",
+    "missionText": "ربط المستهلكين بالخدمات والأعمال المحلية بطريقة فعّالة من خلال توفير تجربة سهلة الاستخدام وتمكين الطرفين.",
+    "vision": "رؤيتنا",
+    "visionText": "نحن نردم الفجوة بين المستهلكين والأعمال المحلية من خلال:",
+    "visionPoint1": "• معلومات موثوقة: يضمن دليلك دقة وتحديث بيانات الأعمال، بخلاف المحتوى المولد من المستخدمين.",
+    "visionPoint2": "• سهولة الاستخدام: واجهة بسيطة وتصنيف واضح تجعل العثور على ما تحتاجه أمراً سهلاً.",
+    "visionPoint3": "• زيادة الظهور والمصداقية: إدراج نشاطك التجاري في دليلك يعزز من موثوقيته لدى المستخدمين المحليين.",
+    "value": "قيمتنا",
+    "valueText": "الجسر الموثوق في العصر الرقمي\nنحن نتجاوز مجرد عرض القوائم، نربط بين المستهلكين والأعمال المحلية. نتصور مستقبلاً حيث:",
+    "valuePoint1": "• بحث سهل: تطبيق سهل الاستخدام يساعدك على الوصول إلى ما تريد بسرعة.",
+    "valuePoint2": "• قرارات مستنيرة: التقييمات والمراجعات والصور توضح أفضل الخيارات للمستخدم.",
+    "valuePoint3": "• تركيز محلي: توصيات مخصصة حسب الموقع لضمان العثور على الأنسب.",
+    "valuePoint4": "• مجتمع متفاعل: إشعارات بالعروض والتحديثات تبقي المستخدم على اطلاع دائم."
+}
